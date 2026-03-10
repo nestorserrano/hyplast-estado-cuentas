@@ -49,5 +49,10 @@ SOFTLAND_DB_USERNAME=usuario
 SOFTLAND_DB_PASSWORD=password
 ```
 
+## Autor y Propietario
+**Néstor Serrano**  
+Desarrollador Full Stack  
+GitHub: [@nestorserrano](https://github.com/nestorserrano)
+
 ## Licencia
-Propietario - Hyplast © 2026
+Propietario - © 2026 Néstor Serrano. Todos los derechos reservados.
